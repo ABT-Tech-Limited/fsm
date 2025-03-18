@@ -1,3 +1,3 @@
-module github.com/0xFredZhang/fsm
+module github.com/ABT-Tech-Limited/fsm
 
 go 1.22.2
